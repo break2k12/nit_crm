@@ -1,0 +1,322 @@
+<div id="allgemeininfo">
+<table class="tx-brw-kunden-allgemein" >
+	<tr>
+		<td>
+			<h1>Projekt:</h1>
+		</td>
+		<td>
+			<h2>{kundendaten.projekt} - {kundendaten.bauart}</h2>
+		</td>
+	</tr>
+  <tr>
+		<td>
+			Bauplatz:
+		</td>
+    <td>
+			 	{kundendaten.strbau}, {kundendaten.plzbau} {kundendaten.ortbau} - {kundendaten.bl}
+		</td>
+	</tr>
+  <tr>
+		<td>
+			Stadium und Bauzeit:
+		</td>
+    <td>
+			 	{kundendaten.planstand}
+		</td>
+	</tr>
+</table>
+</div>
+<div id="Bauplanungheader">
+  <div id="click1"><img alt="" style="margin-right:20px;"" src="http://t3.berewa.de/fileadmin/default/template/img/ausklappen.png"></div>Detailinformationen zur Bauplanung
+  <div id="Bauplanungdetail">
+  <table class="tx-brw-kunden-allgemein" >
+  	<tr>
+  		<td>
+      <b>Geplanter Baubeginn: </b>
+      </td>
+      <td>
+      {kundendaten.gepl_bau_beg}
+      </td>
+  		<td>
+      <b>Geplante Bauzeit:    </b>
+      </td>
+      <td>
+      {kundendaten.gepl_bauzeit}
+      </td>
+    </tr>
+    <tr>
+  		<td>
+      <b>Mauerwerk:               </b>
+      </td>
+      <td>
+      {kundendaten.mauerwerk}
+      </td>
+      <td>
+      <b>Dachkonstruktion:</b>
+      </td>
+      <td>
+      {kundendaten.dachkonstr}
+      </td>
+    </tr>
+        <tr>
+  		<td>
+      <b>Dacheindeckung:</b>
+      </td>
+      <td>
+      {kundendaten.dachein}
+      </td>
+      <td>
+      <b>Fassade:</b>
+      </td>
+      <td>
+      {kundendaten.fassade}
+      </td>
+    </tr>
+    <tr>
+  		<td>
+      <b>Sonstige Baudetails:</b>
+      </td>
+      <td>
+      {kundendaten.sonst_baudet}
+      </td>
+    </tr>
+    <tr>
+  		<td>
+      <b>Aussatattung aussen:</b>
+      </td>
+      <td>
+      {kundendaten.ausstatt_aussen}
+      </td>
+      <td>
+      <b>Ausstattung innen:</b>
+      </td>
+      <td>
+      {kundendaten.ausstatt_innen}
+      </td>
+    </tr>
+  </table>
+  </div>
+</div>
+<div id="Gewerkeheader">
+  <div id="click2"><img alt="" style="margin-right:20px;"" src="http://t3.berewa.de/fileadmin/default/template/img/ausklappen.png"></div>Detailinformationen zur Gewerken
+  <div id="Gewerkedetail">
+  <table class="tx-brw-kunden-gewerke" >
+  	<tr>
+  		<td>
+      <b>Gewerk Vorbereitung: </b>
+      </td>
+      <td>
+      {kundendaten.gewerkvorber}
+      </td>
+    </tr>
+    <tr>
+  		<td>
+      <b>Gewerk Aussenanlage: </b>
+      </td>
+      <td>
+      {kundendaten.gewerkaussenanlage}
+      </td>
+    </tr>
+    <tr>
+  		<td>
+      <b>Allgemeine Gewerke:</b>
+      </td>
+      <td>
+      {kundendaten.allggewerk}
+      </td>
+    </tr>
+    <tr>
+  		<td>
+      <b>Dienstleistungs Gewerke:</b>
+      </td>
+      <td>
+      {kundendaten.dlgewerk}
+      </td>
+    </tr>
+  </table>
+  </div>
+</div>
+
+<div id="Bauherrheader">
+  <div id="click3"><img alt="" style="margin-right:20px;"" src="http://t3.berewa.de/fileadmin/default/template/img/ausklappen.png"></div>Detailinformationen zum Bauherr <b>{kundendaten.bhname}</b>
+  <div id="Bauherrdetail">
+  <table class="tx-brw-kunden-bauherr" >
+  	<tr>
+  		<td>
+      <b>Bauherr Funktion: </b>
+      </td>
+      <td>
+      {kundendaten.bhfunktion}
+      </td>
+    </tr>
+    <tr>
+  		<td>
+      <b>Adresse: </b>
+      </td>
+      <td>
+      {kundendaten.bhname}<br />
+      {kundendaten.bhstr}<br />
+      {kundendaten.bhplz} {kundendaten.bhort} 
+      </td>
+    </tr>
+    <tr>
+  		<td>
+      <b>Kontaktinformationen:</b>
+      </td>
+      <td>
+      Telefon: {kundendaten.bhtel}<br />
+      Handy: {kundendaten.bhhandy}<br />
+      Fax: {kundendaten.bhfax}<br />
+      E-Mail: {kundendaten.bhmail}<br />
+      Internetseite: {kundendaten.bhhomepage}<br />
+      </td>
+    </tr>
+    <tr>
+  		<td>
+      <b>Direktkontaktinformationen:</b>
+      </td>
+      <td>
+      Durchwahl Telefon: {kundendaten.bhdirekttelbh}<br />
+      Durchwahl Fax: {kundendaten.bhdirektfax}<br />
+      Direkt E-Mail: {kundendaten.bhdirektmail}<br />
+      </td>
+    </tr>
+  </table>
+  </div>
+</div>
+
+<div id="Bauunternehmerheader">
+  <div id="click4"><img alt="" style="margin-right:20px;"" src="http://t3.berewa.de/fileadmin/default/template/img/ausklappen.png"></div>Detailinformationen zum Bauunternehmer <b>{kundendaten.buname}</b>
+  <div id="Bauunternehmerdetail">
+  <table class="tx-brw-kunden-bauunternehmer" >
+  	<tr>
+  		<td>
+      <b>Bauunternehmer Funktion: </b>
+      </td>
+      <td>
+      {kundendaten.bufunktion}
+      </td>
+    </tr>
+    <tr>
+  		<td>
+      <b>Adresse: </b>
+      </td>
+      <td>
+      {kundendaten.buname}<br />
+      {kundendaten.bustr}<br />
+      {kundendaten.buplz} {kundendaten.buort} 
+      </td>
+    </tr>
+    <tr>
+  		<td>
+      <b>Kontaktinformationen:</b>
+      </td>
+      <td>
+      Telefon: {kundendaten.butel}<br />
+      Handy: {kundendaten.buhandy}<br />
+      Fax: {kundendaten.bufax}<br />
+      E-Mail: {kundendaten.bumail}<br />
+      Internetseite: {kundendaten.buhomepage}<br />
+      </td>
+    </tr>
+    <tr>
+  		<td>
+      <b>Direktkontaktinformationen:</b>
+      </td>
+      <td>
+      Durchwahl Telefon: {kundendaten.budirekttelbh}<br />
+      Durchwahl Fax: {kundendaten.budirektfax}<br />
+      Direkt E-Mail: {kundendaten.budirektmail}<br />
+      </td>
+    </tr>
+  </table>
+  </div>
+</div>
+
+
+<div id="Architektheader">
+  <div id="click5"><img alt="" style="margin-right:20px;"" src="http://t3.berewa.de/fileadmin/default/template/img/ausklappen.png"></div>Detailinformationen zum Architekt <b>{kundendaten.arname}</b>
+  <div id="Architektdetail">
+  <table class="tx-brw-kunden-architekt" >
+  	<tr>
+  		<td>
+      <b>Architekt Funktion: </b>
+      </td>
+      <td>
+      {kundendaten.ar_funktionarch}
+      </td>
+    </tr>
+    <tr>
+  		<td>
+      <b>Adresse: </b>
+      </td>
+      <td>
+      {kundendaten.arname}<br />
+      {kundendaten.arstr}<br />
+      {kundendaten.arPLZ} {kundendaten.arort} 
+      </td>
+    </tr>
+    <tr>
+  		<td>
+      <b>Kontaktinformationen:</b>
+      </td>
+      <td>
+      Telefon: {kundendaten.artel}<br />
+      Handy: {kundendaten.arhandy}<br />
+      Fax: {kundendaten.arfax}<br />
+      E-Mail: {kundendaten.armail}<br />
+      Internetseite: {kundendaten.arwebsite}<br />
+      </td>
+    </tr>
+    <tr>
+  		<td>
+      <b>Direktkontaktinformationen:</b>
+      </td>
+      <td>
+      Durchwahl Telefon: {kundendaten.ardirekttel}<br />
+      Durchwahl Fax: {kundendaten.ardirektfax}<br />
+      Direkt E-Mail: {kundendaten.ardirektmail}<br />
+      </td>
+    </tr>
+  </table> 
+  </div>
+</div>
+
+<div id="bearbeitung">
+  <div id="bearbeitendetail">
+  <table class="tx-brw-kunden-bearbeiten" >
+  <tr>
+		<td>
+			Angerufen am:
+		</td>
+    <td>
+			 	<f:form.textfield property="calledOn" id="calledon" />
+		</td>
+	</tr>
+  <tr>
+		<td>
+			Wiedervorlage am:
+		</td>
+    <td>
+			 	<f:form.textfield property="recall" id="recall" />
+		</td>
+	</tr>
+  <tr>
+		<td>
+			Notizen:
+		</td>
+    <td>
+			<f:form.textarea property="notice" cols="70" rows="15" /><br />
+		</td>
+    
+    <td>
+      <f:form.select name="priority" property="proirity" options="{1: 'Prio 1', 2: 'Prio 2', 3: 'Prio 3'}" /><br />
+      
+      <br/>
+      <f:form.checkbox property="hiderecord" value="1"/> Kein Interesse<br/>   
+      <f:form.textfield property="user" id="username" value="{benutzer.username}"  /><br/>
+      <f:form.submit value="Speichern" />
+		</td>
+	</tr>
+  
+</table>

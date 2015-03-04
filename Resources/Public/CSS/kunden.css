@@ -1,0 +1,135 @@
+.tx-brw-kunden form {
+  float:left;
+  width:100%;
+  max-width:1024px;
+}
+
+
+
+
+ul{border:0; margin:0; padding:0;}
+
+.f3-widget-paginator li{
+border:0; margin:0; padding:0;
+font-size:11px;
+list-style:none;
+}
+.f3-widget-paginator a{
+border:solid 1px #DDDDDD;
+margin-right:2px;
+}
+.f3-widget-paginator .previous-off,
+.f3-widget-paginator .next-off {
+color:#666666;
+display:block;
+float:left;
+font-weight:bold;
+padding:3px 4px;
+}
+.f3-widget-paginator .next a,
+.f3-widget-paginator .previous a {
+font-weight:bold;
+border:solid 1px #FFFFFF;
+}
+.f3-widget-paginator .active{
+color:#ff0084;
+font-weight:bold;
+display:block;
+float:left;
+padding:4px 6px;
+}
+.f3-widget-paginator a:link,
+.f3-widget-paginator a:visited {
+color:#0063e3;
+display:block;
+float:left;
+padding:3px 6px;
+text-decoration:none;
+}
+.f3-widget-paginator a:hover{
+border:solid 1px #666666;
+}
+
+#Bauplanungdetail {
+  display:none;
+
+}
+
+#Bauplanungheader {
+  background-color:#EEEEEE;
+  margin-top:10px;
+  margin-bottom:10px;
+  padding-bottom:30px;
+  cursor:pointer;
+}
+
+#Bauherrdetail {
+  display:none;
+
+}
+
+#Bauherrheader {
+  background-color:#EEEEEE;
+  margin-top:10px;
+  margin-bottom:10px;
+  padding-bottom:30px;
+  cursor:pointer;
+}
+
+#Gewerkedetail {
+  display:none;
+
+}
+
+#Gewerkeheader {
+  background-color:#EEEEEE;
+  margin-top:10px;
+  margin-bottom:10px;
+  padding-bottom:30px;
+  cursor:pointer;
+}
+
+#Bauunternehmerdetail {
+  display:none;
+
+}
+
+#Bauunternehmerheader {
+  background-color:#EEEEEE;
+  margin-top:10px;
+  margin-bottom:10px;
+  padding-bottom:30px;
+  cursor:pointer;
+}
+
+#Architektdetail {
+  display:none;
+
+}
+
+#Architektheader {
+  background-color:#EEEEEE;
+  margin-top:10px;
+  margin-bottom:10px;
+  padding-bottom:30px;
+  cursor:pointer;
+}
+
+/* css for timepicker */
+.ui-timepicker-div .ui-widget-header { margin-bottom: 8px; }
+.ui-timepicker-div dl { text-align: left; }
+.ui-timepicker-div dl dt { float: left; clear:left; padding: 0 0 0 5px; }
+.ui-timepicker-div dl dd { margin: 0 10px 10px 45%; }
+.ui-timepicker-div td { font-size: 90%; }
+.ui-tpicker-grid-label { background: none; border: none; margin: 0; padding: 0; }
+
+.ui-timepicker-rtl{ direction: rtl; }
+.ui-timepicker-rtl dl { text-align: right; padding: 0 5px 0 0; }
+.ui-timepicker-rtl dl dt{ float: right; clear: right; }
+.ui-timepicker-rtl dl dd { margin: 0 45% 10px 10px; }
+
+
+#username {
+  display:none;
+
+}

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-02-11T16:48:00Z" product-name="brw_kunden">
+		<header/>
+		<body>
+
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten">
+				<source>Kundendaten</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.erstellt">
+				<source>Erstellt</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.projekt">
+				<source>Projekt</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.bauart">
+				<source>Bauart</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.gebaeudeart">
+				<source>Gebaeudeart</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.kategorie">
+				<source>Kategorie</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.plzbau">
+				<source>Plzbau</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.lkzbau">
+				<source>Lkzbau</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.ortbau">
+				<source>Ortbau</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.strbau">
+				<source>Strbau</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.bl">
+				<source>Bl</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.lkr">
+				<source>Lkr</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.planstand">
+				<source>Planstand</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.gepl_bau_beg">
+				<source>Gepl Bau Beg</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.gepl_bauzeit">
+				<source>Gepl Bauzeit</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.mauerwerk">
+				<source>Mauerwerk</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.dachkonstr">
+				<source>Dachkonstr</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.dacheind">
+				<source>Dacheind</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.fassade">
+				<source>Fassade</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.sonst_baudet">
+				<source>Sonst Baudet</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.ausstatt_aussen">
+				<source>Ausstatt Aussen</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.ausstatt_innen">
+				<source>Ausstatt Innen</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.gewerk_vorber">
+				<source>Gewerk Vorber</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.gewerk_aussenanlage">
+				<source>Gewerk Aussenanlage</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.allg_gewerk">
+				<source>Allg Gewerk</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.dl_gewerke">
+				<source>Dl Gewerke</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.vergabe_kz">
+				<source>Vergabe Kz</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.bh_funktion">
+				<source>Bh Funktion</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.bh_adressnr">
+				<source>Bh Adressnr</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.b_h_name">
+				<source>B H Name</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.bhlkz">
+				<source>Bhlkz</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.bh_plz">
+				<source>Bh Plz</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.bh_ort">
+				<source>Bh Ort</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.bh_str">
+				<source>Bh Str</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.bh_tel">
+				<source>Bh Tel</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.bh_fax">
+				<source>Bh Fax</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.bh_mail">
+				<source>Bh Mail</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.bh_zust">
+				<source>Bh Zust</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.direkt_telbh">
+				<source>Direkt Telbh</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.bh_direkt_fax">
+				<source>Bh Direkt Fax</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.bh_direkt_mail">
+				<source>Bh Direkt Mail</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.bh_homepage">
+				<source>Bh Homepage</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.bh_handy">
+				<source>Bh Handy</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.bu_funktion">
+				<source>Bu Funktion</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.bu_adress_nr">
+				<source>Bu Adress Nr</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.bu_name">
+				<source>Bu Name</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.bu_plz">
+				<source>Bu Plz</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.bu_ort">
+				<source>Bu Ort</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.bu_str">
+				<source>Bu Str</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.bu_tel">
+				<source>Bu Tel</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.bu_fax">
+				<source>Bu Fax</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.bu_mail">
+				<source>Bu Mail</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.buzust_a_p">
+				<source>Buzust A P</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.budirekt_tel">
+				<source>Budirekt Tel</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.bu_direkt_fax">
+				<source>Bu Direkt Fax</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.budirekt_mail">
+				<source>Budirekt Mail</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.buwebsite">
+				<source>Buwebsite</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.bu_handy">
+				<source>Bu Handy</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.ar_funktion_arch">
+				<source>Ar Funktion Arch</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.ar_adressnr">
+				<source>Ar Adressnr</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.ar_name">
+				<source>Ar Name</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.ar_p_l_z">
+				<source>Ar P L Z</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.ar_ort">
+				<source>Ar Ort</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.ar_str">
+				<source>Ar Str</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.ar_tel">
+				<source>Ar Tel</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.ar_fax">
+				<source>Ar Fax</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.ar_mail">
+				<source>Ar Mail</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.arzust_a_p">
+				<source>Arzust A P</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.ar_direkt_tel">
+				<source>Ar Direkt Tel</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.ardirekt_fax">
+				<source>Ardirekt Fax</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.ardirekt_mail">
+				<source>Ardirekt Mail</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.ar_website">
+				<source>Ar Website</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.ar_handy">
+				<source>Ar Handy</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.called_on">
+				<source>Called On</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.recall">
+				<source>Recall</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.notice">
+				<source>Notice</source>
+			</trans-unit>
+			<trans-unit id="tx_brwkunden_domain_model_kundendaten.proirity">
+				<source>Proirity</source>
+			</trans-unit>
+
+		</body>
+	</file>
+</xliff>

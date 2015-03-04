@@ -1,0 +1,14 @@
+plugin.tx_brwkunden {
+	view {
+		# cat=plugin.tx_brwkunden/file; type=string; label=Path to template root (FE)
+		templateRootPath = EXT:brw_kunden/Resources/Private/Templates/
+		# cat=plugin.tx_brwkunden/file; type=string; label=Path to template partials (FE)
+		partialRootPath = EXT:brw_kunden/Resources/Private/Partials/
+		# cat=plugin.tx_brwkunden/file; type=string; label=Path to template layouts (FE)
+		layoutRootPath = EXT:brw_kunden/Resources/Private/Layouts/
+	}
+	persistence {
+		# cat=plugin.tx_brwkunden//a; type=string; label=Default storage PID
+		storagePid =
+	}
+}

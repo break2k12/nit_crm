@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-02-11T16:48:00Z" product-name="brw_kunden">
+		<header/>
+		<body>
+
+			<trans-unit id="erstellt.description">
+				<source>Erstellt am</source>
+			</trans-unit>
+			<trans-unit id="projekt.description">
+				<source>Projekt</source>
+			</trans-unit>
+			<trans-unit id="bauart.description">
+				<source>Bauart</source>
+			</trans-unit>
+			<trans-unit id="gebaeudeart.description">
+				<source>Gebäudeart</source>
+			</trans-unit>
+			<trans-unit id="kategorie.description">
+				<source>Gebäudekategorie
+</source>
+			</trans-unit>
+			<trans-unit id="plzbau.description">
+				<source>PLZ Bauplatz</source>
+			</trans-unit>
+			<trans-unit id="lkzbau.description">
+				<source>Länderkennzeichen Bauplatz</source>
+			</trans-unit>
+			<trans-unit id="ortbau.description">
+				<source>Ort Bauplatz</source>
+			</trans-unit>
+			<trans-unit id="strbau.description">
+				<source>Straße Bauplatz</source>
+			</trans-unit>
+			<trans-unit id="bl.description">
+				<source>Bundesland</source>
+			</trans-unit>
+			<trans-unit id="lkr.description">
+				<source>Landkreis</source>
+			</trans-unit>
+			<trans-unit id="planstand.description">
+				<source>Planungsstand</source>
+			</trans-unit>
+			<trans-unit id="gepl_bau_beg.description">
+				<source>geplanter Baubeginn</source>
+			</trans-unit>
+			<trans-unit id="gepl_bauzeit.description">
+				<source>geplante Bauzeit</source>
+			</trans-unit>
+			<trans-unit id="mauerwerk.description">
+				<source>Mauerwerk (Konstruktion)</source>
+			</trans-unit>
+			<trans-unit id="dachkonstr.description">
+				<source>Dachkonstruktion</source>
+			</trans-unit>
+			<trans-unit id="dacheind.description">
+				<source>Dacheindeckung</source>
+			</trans-unit>
+			<trans-unit id="fassade.description">
+				<source>Fassade</source>
+			</trans-unit>
+			<trans-unit id="sonst_baudet.description">
+				<source>sonstige Baudetails</source>
+			</trans-unit>
+			<trans-unit id="ausstatt_aussen.description">
+				<source>Ausstattung aussen</source>
+			</trans-unit>
+			<trans-unit id="ausstatt_innen.description">
+				<source>Ausstattung innen</source>
+			</trans-unit>
+			<trans-unit id="gewerk_vorber.description">
+				<source>Gewerke Vorbereitungsarbeiten</source>
+			</trans-unit>
+			<trans-unit id="gewerk_aussenanlage.description">
+				<source>Gewerke für Aussenanlagen</source>
+			</trans-unit>
+			<trans-unit id="allg_gewerk.description">
+				<source>allgemeine Gewerke</source>
+			</trans-unit>
+			<trans-unit id="dl_gewerke.description">
+				<source>Dienstleistungsgewerke</source>
+			</trans-unit>
+			<trans-unit id="vergabe_kz.description">
+				<source>Vergabe KZ.</source>
+			</trans-unit>
+			<trans-unit id="bh_funktion.description">
+				<source>BH Funktion</source>
+			</trans-unit>
+			<trans-unit id="bh_adressnr.description">
+				<source>BH Adressnr</source>
+			</trans-unit>
+			<trans-unit id="b_h_name.description">
+				<source>BH Name</source>
+			</trans-unit>
+			<trans-unit id="bhlkz.description">
+				<source>BH LKZ</source>
+			</trans-unit>
+			<trans-unit id="bh_plz.description">
+				<source>BH PLZ</source>
+			</trans-unit>
+			<trans-unit id="bh_ort.description">
+				<source>BH Ort</source>
+			</trans-unit>
+			<trans-unit id="bh_str.description">
+				<source>BH Straße</source>
+			</trans-unit>
+			<trans-unit id="bh_tel.description">
+				<source>BH Telefon</source>
+			</trans-unit>
+			<trans-unit id="bh_fax.description">
+				<source>BH Fax</source>
+			</trans-unit>
+			<trans-unit id="bh_mail.description">
+				<source>BH E-Mail</source>
+			</trans-unit>
+			<trans-unit id="bh_zust.description">
+				<source>BH zuständig</source>
+			</trans-unit>
+			<trans-unit id="direkt_telbh.description">
+				<source>BH Direktwahl</source>
+			</trans-unit>
+			<trans-unit id="bh_direkt_fax.description">
+				<source>BH Direktfax</source>
+			</trans-unit>
+			<trans-unit id="bh_direkt_mail.description">
+				<source>BH Direkt E-Mail</source>
+			</trans-unit>
+			<trans-unit id="bh_homepage.description">
+				<source>BH Homepage</source>
+			</trans-unit>
+			<trans-unit id="bh_handy.description">
+				<source>BH Handy</source>
+			</trans-unit>
+			<trans-unit id="bu_funktion.description">
+				<source>Funktion Bauunternehmer</source>
+			</trans-unit>
+			<trans-unit id="bu_adress_nr.description">
+				<source>Bauunternehmer Adressnummer</source>
+			</trans-unit>
+			<trans-unit id="bu_name.description">
+				<source>Bauunternehmer Name</source>
+			</trans-unit>
+			<trans-unit id="bu_plz.description">
+				<source>Bauunternehmer PLZ</source>
+			</trans-unit>
+			<trans-unit id="bu_ort.description">
+				<source>Bauunternehmer Ort</source>
+			</trans-unit>
+			<trans-unit id="bu_str.description">
+				<source>Bauunternehmer Strasse</source>
+			</trans-unit>
+			<trans-unit id="bu_tel.description">
+				<source>Bauunternehmer Telefon</source>
+			</trans-unit>
+			<trans-unit id="bu_fax.description">
+				<source>Bauunternehmer Fax</source>
+			</trans-unit>
+			<trans-unit id="bu_mail.description">
+				<source>Bauunternehmer E-Mail</source>
+			</trans-unit>
+			<trans-unit id="buzust_a_p.description">
+				<source>Bauunternehmer zuständiger AP</source>
+			</trans-unit>
+			<trans-unit id="budirekt_tel.description">
+				<source>Bauunternehmer Direktwahl</source>
+			</trans-unit>
+			<trans-unit id="bu_direkt_fax.description">
+				<source>Bauunternehmer Direkt Fax</source>
+			</trans-unit>
+			<trans-unit id="budirekt_mail.description">
+				<source>Bauunternehmer Direkt E-Mail</source>
+			</trans-unit>
+			<trans-unit id="buwebsite.description">
+				<source>Bauunternehmer Homepage</source>
+			</trans-unit>
+			<trans-unit id="bu_handy.description">
+				<source>Bauunternehmer Handy</source>
+			</trans-unit>
+			<trans-unit id="ar_funktion_arch.description">
+				<source>Architekt Funktion</source>
+			</trans-unit>
+			<trans-unit id="ar_adressnr.description">
+				<source>Architekt Adressnummer</source>
+			</trans-unit>
+			<trans-unit id="ar_name.description">
+				<source>Architekt Name</source>
+			</trans-unit>
+			<trans-unit id="ar_p_l_z.description">
+				<source>Architekt PLZ</source>
+			</trans-unit>
+			<trans-unit id="ar_ort.description">
+				<source>Architekt Ort</source>
+			</trans-unit>
+			<trans-unit id="ar_str.description">
+				<source>Architekt Strasse</source>
+			</trans-unit>
+			<trans-unit id="ar_tel.description">
+				<source>Architekt Telefon</source>
+			</trans-unit>
+			<trans-unit id="ar_fax.description">
+				<source>Architekt FAX</source>
+			</trans-unit>
+			<trans-unit id="ar_mail.description">
+				<source>Architekt E-Mail</source>
+			</trans-unit>
+			<trans-unit id="arzust_a_p.description">
+				<source>Architekt zuständiger AP</source>
+			</trans-unit>
+			<trans-unit id="ar_direkt_tel.description">
+				<source>Architekt Direktwahl Telefon</source>
+			</trans-unit>
+			<trans-unit id="ardirekt_fax.description">
+				<source>Architekt Direktwahl Fax</source>
+			</trans-unit>
+			<trans-unit id="ardirekt_mail.description">
+				<source>Architekt Direkte E-Mail</source>
+			</trans-unit>
+			<trans-unit id="ar_website.description">
+				<source>Architekt Homepage</source>
+			</trans-unit>
+			<trans-unit id="ar_handy.description">
+				<source>Architekt Handy</source>
+			</trans-unit>
+			<trans-unit id="called_on.description">
+				<source>Angerufen am</source>
+			</trans-unit>
+			<trans-unit id="recall.description">
+				<source>Widervorlage am</source>
+			</trans-unit>
+			<trans-unit id="notice.description">
+				<source>Notizen</source>
+			</trans-unit>
+			<trans-unit id="proirity.description">
+				<source>Priorität</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

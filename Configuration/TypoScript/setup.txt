@@ -1,0 +1,64 @@
+page.includeCSS.kunden = EXT:brw_kunden/Resources/Public/CSS/kunden.css
+page.includeJS.kunden = EXT:brw_kunden/Resources/Public/js/kunden.js
+page.includeJS.jQueryUI.external = 1
+page.includeJS.jQueryUI = http://code.jquery.com/ui/1.10.1/jquery-ui.js
+page.includeJS.timepick = EXT:brw_kunden/Resources/Public/js/timePicker.js
+
+
+plugin.tx_brwkunden {
+	view {
+		templateRootPath = {$plugin.tx_brwkunden.view.templateRootPath}
+		partialRootPath = {$plugin.tx_brwkunden.view.partialRootPath}
+		layoutRootPath = {$plugin.tx_brwkunden.view.layoutRootPath}
+	}
+	persistence {
+		storagePid = {$plugin.tx_brwkunden.persistence.storagePid}
+	}
+	features {
+		# uncomment the following line to enable the new Property Mapper.
+		# rewrittenPropertyMapper = 1
+	}
+}
+
+plugin.tx_brwkunden._CSS_DEFAULT_STYLE (
+	textarea.f3-form-error {
+		background-color:#FF9F9F;
+		border: 1px #FF0000 solid;
+	}
+
+	input.f3-form-error {
+		background-color:#FF9F9F;
+		border: 1px #FF0000 solid;
+	}
+
+	.tx-brw-kunden table {
+		border-collapse:separate;
+		border-spacing:10px;
+	}
+
+	.tx-brw-kunden table th {
+		font-weight:bold;
+	}
+
+	.tx-brw-kunden table td {
+		vertical-align:top;
+	}
+)
+
+config {
+  tx_extbase {
+    persistence {
+      updateReferenceIndex = 1
+      classes {
+        Tx_brwkunden_Domain_Model_kundendaten {
+          mapping {
+            tableName = Tx_brwkunden_Domain_Model_kundendaten
+            columns {
+              hidden.mapOnProperty = hidden
+            }
+          }
+        }
+      }
+    }
+  }
+}
